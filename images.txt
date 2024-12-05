@@ -1,8 +1,8 @@
 
-langgenius/dify-api:v0.11.0
+langgenius/dify-api:0.13.0
 langgenius/dify-web
 nginx:latest
 postgres:15-alpine
-langgenius/dify-sandbox:v0.2.10
+langgenius/dify-sandbox:0.2.10
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
